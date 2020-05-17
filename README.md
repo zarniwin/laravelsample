@@ -49,6 +49,8 @@ Start The local development server
 ```
 php artisan serve
 ```
+You can now access the server at http://localhost:8000
+
 
 ## Database Seeding
 
@@ -67,27 +69,31 @@ php artisan migrate:refresh
 
 ---
 
-## Code Overview
+# Code Overview
+
 
 ## Dependencies
 
    - Spatie - For roles permissions
 
+
 ## Main Featues
 
-   1.Routing
-   2.Middleware
-   3.Role & Permission
-   4.Migrations
-   5.Seeding
-   6.CRUD
+   - Routing
+   - Middleware   
+   - Role & Permission
+   - Migrations
+   - Seeding
+   - CRUD
+
 
 ## Environment variables
    - .env - Environment variables can be set in this file
 
-*Note* You can quickly set the database information and other variables in this file and have the application fully working.For this project set page_limit eg.page_limit=20 for pagination in .env file
+***Note*** You can quickly set the database information and other variables in this file and have the application fully working.For this project set page_limit eg.page_limit=20 for pagination in .env file
 
 ---
+
 
 ## Testing the Project
 
