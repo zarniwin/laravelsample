@@ -6,54 +6,55 @@ This is a sample laravel project for learning.
 Laravel Framework : version 6.18.10
 
 ## Getting Started
----
 
 ## Installation
 
  Please check the Laravel installation guide for server requirements before start.[Laravel documentation](https://laravel.com/docs)
 
 Clone repository
->> git clone https://github.com/zarniwin/laravelsample.git
+| git clone https://github.com/zarniwin/laravelsample.git |
+|                                                         |
+
 
 Install all the dependencies using composer
->> composer install
+> composer install
 
 Install all the dependencies using node
->> npm install
->> npm run dev
+> npm install
+
+> npm run dev
 
 Copy the example env file and make the required configuration changes in the .env file
->> cp .env.example .env
+> cp .env.example .env
 
 Generate a new application key
->> php artisan key:generate
+> php artisan key:generate
 
 Run the database migrations
 
->> php artisan migrate
+> php artisan migrate
 
 Start The local development server
->> php artisan serve
+> php artisan serve
 
 ## Database Seeding
 
 There are some seeder files for learning.This can help you to quickly start to test this sample project.
 
 Run the database seeder
->> php artisan db:seed
+> php artisan db:seed
 
 *Note* It's recommended to have a clean database before seeding. You can refresh your migrations at any point to clean the database by running the following command
 
->> php artisan migrate:refresh
+> php artisan migrate:refresh
 
 ---
 
-# Code Overview
+## Code Overview
 
 ## Dependencies
 
    - Spatie - For roles permissions
-
 
 ## Main Featues
 
@@ -74,6 +75,6 @@ Run the database seeder
 ## Testing the Project
 
 Run the laravel development server
->> php artisan serve
+> php artisan serve
 
 You can now access the server at http://localhost:8000
