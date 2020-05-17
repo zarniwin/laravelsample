@@ -1,0 +1,7 @@
+[
+{"id":"1","name":"MgMg","email":"mgmg@test.com.mm","email_verified_at":null,"password":"$2y$10$FqJ\/CAP6KJvnv3pXh8PXQOOXNSfFUzqEO3h9qql9W1PbhmyWYdTAu","remember_token":null,"deleted_at":null,"created_at":"2020-05-17 14:45:15","updated_at":"2020-05-17 14:45:15"},
+{"id":"2","name":"MyaMya","email":"myamya@test.com.m","email_verified_at":null,"password":"$2y$10$XhHzy0jsLbcczomaWLD7D.lfB.g.6pp1BvRuFLkMOVYvizNxFl0FO","remember_token":null,"deleted_at":null,"created_at":"2020-05-17 14:57:11","updated_at":"2020-05-17 14:57:11"},
+{"id":"3","name":"Aung Aung","email":"aungaung@test.com.mm","email_verified_at":null,"password":"$2y$10$uVJAT.76tjzdSyp.acz3HeYvxVJHwSFtU1tq3OxKuh3rwyfBMsPZC","remember_token":null,"deleted_at":null,"created_at":"2020-05-17 14:58:13","updated_at":"2020-05-17 14:58:13"},
+{"id":"4","name":"May","email":"may@test.com.mm","email_verified_at":null,"password":"$2y$10$O\/G\/5rnIzTy1yEwZIwKEQOB61SKWH2ulKai\/x0LVoekGvwd4mGovO","remember_token":null,"deleted_at":null,"created_at":"2020-05-17 15:01:23","updated_at":"2020-05-17 15:01:23"},
+{"id":"5","name":"Wutt Yi","email":"wuttyi@test.com.mm","email_verified_at":null,"password":"$2y$10$xO9yzCIT0dSuhR1y8Ez0yervuWGVpjs6oaNqEF7BVUPyKIKfVhE6i","remember_token":null,"deleted_at":null,"created_at":"2020-05-17 15:02:15","updated_at":"2020-05-17 15:02:15"}
+]
