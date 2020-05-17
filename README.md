@@ -61,20 +61,22 @@ Run the database seeder
  php artisan db:seed
 ```
 
-*Note* It's recommended to have a clean database before seeding. You can refresh your migrations at any point to clean the database by running the following command
+***Note*** It's recommended to have a clean database before seeding. You can refresh your migrations at any point to clean the database by running the following command
 
 ```
 php artisan migrate:refresh
 ```
 
+
 ---
+
 
 # Code Overview
 
 
 ## Dependencies
 
-   - Spatie - For roles permissions
+   - [Spatie](https://github.com/spatie/laravel-permission) - For roles permissions
 
 
 ## Main Featues
@@ -85,6 +87,7 @@ php artisan migrate:refresh
    - Migrations
    - Seeding
    - CRUD
+
 
 
 ## Environment variables
