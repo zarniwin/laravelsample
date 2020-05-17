@@ -13,7 +13,6 @@ Laravel Framework : version 6.18.10
 
 Clone repository
 | git clone https://github.com/zarniwin/laravelsample.git |
-|                                                         |
 
 
 Install all the dependencies using composer
