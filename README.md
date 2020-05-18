@@ -106,3 +106,5 @@ php artisan serve
 ```
 
 You can now access the server at http://localhost:8000
+
+***Note*** Super Admin is already registered in user table with seeding.For Super Admin Login, username = mgmg@test.com.mm, password = 11111111
