@@ -79,7 +79,7 @@ php artisan migrate:refresh
    - [Spatie](https://github.com/spatie/laravel-permission) - For roles permissions
 
 
-## Main Featues
+## Main Features
 
    - Routing
    - Middleware   
