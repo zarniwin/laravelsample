@@ -57,7 +57,7 @@
                         @endif 
                     @else
                         <div class="pt-3">
-                            <p class='text-danger'>There are no Records.</p>
+                            <p class='text-danger'>There is no Records.</p>
                         </div>
                     @endif
                 </div>
